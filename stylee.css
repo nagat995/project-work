@@ -1,0 +1,35 @@
+a:hover{
+    color: blue;   
+}
+body{
+    box-shadow: 15px 10px 10px black;
+    border-radius: 30px;
+    background-color: rgb(205, 230, 231);
+}
+h1{
+    color: blueviolet; 
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    text-decoration: underline;
+}
+form{
+    box-shadow: 15px 10px 10px black;
+    border-radius: 15px;
+    background-color: rgb(163, 224, 228);
+
+}
+section{
+    box-shadow: 15px 10px 10px black;
+    border-radius: 15px;
+    background-color: rgb(163, 224, 228);
+}
+input{
+    width: 230px;
+}
+header{
+     box-shadow: 15px 10px 10px black;
+    border-radius: 15px;
+    background-color: rgb(163, 224, 228);
+
+}
+
